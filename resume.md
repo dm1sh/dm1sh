@@ -70,6 +70,8 @@ In addition to JavaScript and Python, I'm also studying C and develop applicatio
 
 ## Projects
 
+- [The Invisible Centaur](https://github.com/SSH-KK/goHackathon)
+  Interface for human and AI integration, which helps to play Go game **_JavaScript+React+Redux_**
 - [KGS_LeaderBoard](https://github.com/SSH-KK/KGS_LeaderBoard)
   Leaderboard application for KGS Go server - **_TypeScript+React+Brython_**
 - [timetable-generator](https://github.com/SSH-KK/timetable-generator)
@@ -99,6 +101,7 @@ In addition to JavaScript and Python, I'm also studying C and develop applicatio
 
 - Winner of [UralCTF](https://vk.com/uralctf)
 - Winner of hackathon ["Hantaton 2020"](https://hackathon.uriit.ru/2020/)
+- Winner of hackathon ["Mind Games"](https://practicingfutures.org/mindgame)
 
 ## Open Source projects contribution
 

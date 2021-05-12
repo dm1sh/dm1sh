@@ -70,6 +70,8 @@
 
 ## Проекты
 
+- [The Invisible Centaur](https://github.com/SSH-KK/goHackathon)
+  Интерфейс для взаимодействия человека и искусственного интеллекта, помогающий играть в Го **_JavaScript+React+Redux_**
 - [KGS_LeaderBoard](https://github.com/SSH-KK/KGS_LeaderBoard)
   Таблица топов для KGS Go сервера - **_TypeScript+React+Brython_**
 - [timetable-generator](https://github.com/SSH-KK/timetable-generator)
@@ -99,6 +101,7 @@
 
 - Победитель [UralCTF](https://vk.com/uralctf)
 - Победитель хакатона ["Хантатон 2020"](https://hackathon.uriit.ru/2020/)
+- Победитель хакатона ["Игры разумов"](https://practicingfutures.org/mindgame)
 
 ## Вклад в Open Source проекты
 
