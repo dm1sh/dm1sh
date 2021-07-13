@@ -71,7 +71,11 @@
 ## Проекты
 
 - [The Invisible Centaur](https://github.com/SSH-KK/goHackathon)
-  Интерфейс для взаимодействия человека и искусственного интеллекта, помогающий играть в Го **_JavaScript+React+Redux_**
+  Интерфейс для взаимодействия человека и искусственного интеллекта, помогающий играть в Го - **_JavaScript+React+Redux_**
+- [Publite (frontend)](https://github.com/publite/frontend)
+  Фронтенд "читалки" электронных книг форматов Epub и FB2 - **_TypeScript+React_**
+- [Publite (backend)](https://github.com/publite/backend)
+  Бэкенд "читалки" электронных книг форматов Epub и FB2 - **_Python+FastAPI_**
 - [KGS_LeaderBoard](https://github.com/SSH-KK/KGS_LeaderBoard)
   Таблица топов для KGS Go сервера - **_TypeScript+React+Brython_**
 - [timetable-generator](https://github.com/SSH-KK/timetable-generator)
