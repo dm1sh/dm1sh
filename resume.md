@@ -72,6 +72,10 @@ In addition to JavaScript and Python, I'm also studying C and develop applicatio
 
 - [The Invisible Centaur](https://github.com/SSH-KK/goHackathon)
   Interface for human and AI integration, which helps to play Go game **_JavaScript+React+Redux_**
+- [Publite (frontend)](https://github.com/publite/frontend)
+  Frontend of ebook reader supporting Epub and FB2 file formats - **_TypeScript+React_**
+- [Publite (backend)](https://github.com/publite/backend)
+  Backend of ebook reader supporting Epub and FB2 file formats - **_Python+FastAPI_**
 - [KGS_LeaderBoard](https://github.com/SSH-KK/KGS_LeaderBoard)
   Leaderboard application for KGS Go server - **_TypeScript+React+Brython_**
 - [timetable-generator](https://github.com/SSH-KK/timetable-generator)
