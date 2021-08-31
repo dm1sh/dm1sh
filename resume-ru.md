@@ -9,7 +9,7 @@
 
 ## Обо мне
 
-17-летний разработчик, специализирующийся на веб-программировании. Так же интересуюсь Linux и имею несколько проектов на C. Занимаюсь программированием с 2017 года. Кроме того, участвую в CTF соревнованиях и хакатонах, вношу свой вклад в проекты с исходным кодом. В качестве хобби занимаюсь фотографией и играю в настольные игры. В данный момент являюсь учеником 11 класса Югорского Физико-Математического Лицея-интерната.
+17-летний разработчик, специализирующийся на веб-программировании. Так же интересуюсь Linux и имею несколько проектов на C. Занимаюсь программированием с 2017 года. Кроме того, участвую в CTF соревнованиях и хакатонах, вношу свой вклад в проекты с исходным кодом. В качестве хобби занимаюсь фотографией и играю в настольные игры. В данный момент являюсь студентом 1 курса Санкт-Петербургского государственного электротехнического университета − СПбГЭТУ «ЛЭТИ» им. В.И. Ульянова (Ленина).
 
 ## Специализация
 
@@ -18,6 +18,8 @@
 Так же я обладаю некоторыми DevOps навыками, включающими в себя создание рабочего окружения и развёртка конечного продукта на собственном сервере, PaaS или SaaS платформе.
 
 Помимо JavaScript и Python я так же занимаюсь изучением C и созданием на нём прикладных приложений. Этот язык тесно связан с операционной системой Linux, благодаря знанию которой я так же могу осуществлять базовое системное администрирование сервера и построение архитектуры сети.
+
+С недавнего времени я заинтересовался платформой .NET Core и изучением языка C#.
 
 ## Стэк
 
@@ -29,6 +31,7 @@
     - [Wouter](https://github.com/molefrog/wouter)
     - [Framer Motion](https://www.framer.com/motion)
     - [Styled Components](https://styled-components.com)
+  - [Redux](https://redux.js.org)
   - [Next.js](https://nextjs.org)
   - [Graphql](https://graphql.org)
     - [Apollo](https://www.apollographql.com)
@@ -42,6 +45,9 @@
   - [IndexedDB](https://github.com/jakearchibald/idb)
   - [Immer](https://immerjs.github.io/immer)
   - [ExpressJS](https://expressjs.com)
+  - Браузерные API
+    - [Service Worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
+    - [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
   - Среда разработки
     - [ESLint](https://eslint.org)
     - [Prettier](https://prettier.io)
@@ -50,9 +56,11 @@
     - [Webpack](https://webpack.js.org)
     - [Snowpack](https://www.snowpack.dev)
     - [Storybook](https://storybook.js.org)
+    - [esbuild](https://esbuild.github.io)
     - [Babel](https://babeljs.io)
 - Деплой
   - [Docker](https://www.docker.com)
+  - [Kubernetes](https://kubernetes.io)
   - [docker-compose](https://docs.docker.com/compose)
   - [Dokku](https://dokku.com)
   - [Heroku](https://heroku.com)
@@ -61,7 +69,9 @@
 - C
 - [Python](https://www.python.org)
   - [FastAPI](https://fastapi.tiangolo.com)
-- [Lua](http://www.lua.org)
+- [Lua](https://www.lua.org)
+- C#
+  - [.NET Core](https://dotnet.microsoft.com)
 
 ## Языки
 
@@ -72,10 +82,10 @@
 
 - [The Invisible Centaur](https://github.com/SSH-KK/goHackathon)
   Интерфейс для взаимодействия человека и искусственного интеллекта, помогающий играть в Го - **_JavaScript+React+Redux_**
-- [Publite (frontend)](https://github.com/publite/frontend)
-  Фронтенд "читалки" электронных книг форматов Epub и FB2 - **_TypeScript+React_**
-- [Publite (backend)](https://github.com/publite/backend)
-  Бэкенд "читалки" электронных книг форматов Epub и FB2 - **_Python+FastAPI_**
+- [Publite](https://github.com/publite)
+  "Читалка" электронных книг форматов Epub и FB2.
+  Фронтенд - **_TypeScript+React_**
+  Бэкенд - **_Python+FastAPI_**
 - [KGS_LeaderBoard](https://github.com/SSH-KK/KGS_LeaderBoard)
   Таблица топов для KGS Go сервера - **_TypeScript+React+Brython_**
 - [timetable-generator](https://github.com/SSH-KK/timetable-generator)
@@ -90,8 +100,18 @@
   Архив семинаров и домашних заданий - **_TypeScript+React_**
 - [hackathon2020_komap](https://github.com/SSH-KK/hackathon2020_komap)
   Приложение для составление маршрутов - **_TypeScript+React_**
+- [html-pagination](https://github.com/dm1sh/html-pagination)
+  Библиотека для постраничного отображения HTML-контента - **_TypeScript_**
 - [eserver](https://github.com/dm1sh/eserver)
   Простой веб-сервер похожий на ExpressJS - **_TypeScript_**
+- [polynomial_interpolation](https://github.com/dm1sh/polynomial_interpolation)
+  Программа для составления многочлена проходящего через заданные точки - **_C_**
+- [conways_game](https://github.com/dm1sh/conways_game)
+  Имплементация игры Джона Хортона Конвея "Жизнь" в браузере - **_TypeScript_**
+- [ttt-game](https://github.com/dm1sh/ttt-game)
+  Игра в крестики-нолики - **_Python_**
+- [rpn](https://github.com/dm1sh/rpn)
+  Стековый калькулятор для вычисления выражений записанных в обратной польской записи - **_C#_**
 - [thetriangle](https://github.com/Dm1tr1y147/thetriangle)
   Программа для печати треугольников и составных фигур - **_C_**
 - [textEbitor](https://github.com/dm1sh/textEbitor)
@@ -116,10 +136,15 @@
 
 ## Образование
 
+### [СПБГЭТУ "ЛЭТИ"](https://etu.ru)
+
+- 09/2021 - сейчас — г.Санкт-Петербург
+- Ведущий электротехнический ВУЗ России и мира, я прохожу обучение по направлению [11.03.02 Инфокоммуникационные технологии и системы связи](https://etu.ru/ru/abiturientam/napravleniya-podgotovki/bakalavriat/infokommunikacionnye-tehnologii-i-sistemy-svyazi) на степень бакалавра
+
 ### [Югорский Физико-Математический Лицей-интернат](https://ugrafmsh.ru)
 
 - 09/2019 - 06/2021 — г.Ханты-Мансийск
-- Ведущее образовательное учреждение России в области математики, физики, информатики.
+- Ведущее образовательное учреждение России в области математики, физики, информатики
 
 ### [СОШ №2 г.Белоярский](http://sosh2bel.ru)
 

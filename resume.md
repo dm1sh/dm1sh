@@ -9,7 +9,7 @@
 
 ## About me
 
-17-years old programmer specialized in web development. I'm also interested in Linux and have some projects written in C. I study programming since 2017. Except it, I also take part in CTF competitions and hackathons, contribute to open source projects. I do photography and play board games as a hobby. At the moment, I am a high school student in Ugra Physics and Maths Lyceum.
+17-years old programmer specialized in web development. I'm also interested in Linux and have some projects written in C. I study programming since 2017. Except it, I also take part in CTF competitions and hackathons, contribute to open source projects. I do photography and play board games as a hobby. At the moment, I am a bachelor student in Saint Petersburg Electrotechnical University "LETI".
 
 ## Specialization
 
@@ -18,6 +18,8 @@ My specialization is web development. Most often, I work on Front-end applicatio
 I also have some DevOps skills, including development environment creation and final product deployment on VPS, PaaS, or SaaS platforms.
 
 In addition to JavaScript and Python, I'm also studying C and develop application programs. This language is closely related to Linux. Through knowing it, I can do basic server machine system administration and network development.
+
+Recently I got interested in .NET Core platform and C# language.
 
 ## Stack
 
@@ -29,6 +31,7 @@ In addition to JavaScript and Python, I'm also studying C and develop applicatio
     - [Wouter](https://github.com/molefrog/wouter)
     - [Framer Motion](https://www.framer.com/motion)
     - [Styled Components](https://styled-components.com)
+  - [Redux](https://redux.js.org)
   - [Next.js](https://nextjs.org)
   - [Graphql](https://graphql.org)
     - [Apollo](https://www.apollographql.com)
@@ -42,6 +45,9 @@ In addition to JavaScript and Python, I'm also studying C and develop applicatio
   - [IndexedDB](https://github.com/jakearchibald/idb)
   - [Immer](https://immerjs.github.io/immer)
   - [ExpressJS](https://expressjs.com)
+  - Web APIs
+    - [Service Worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
+    - [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
   - Dev environment
     - [ESLint](https://eslint.org)
     - [Prettier](https://prettier.io)
@@ -50,9 +56,11 @@ In addition to JavaScript and Python, I'm also studying C and develop applicatio
     - [Webpack](https://webpack.js.org)
     - [Snowpack](https://www.snowpack.dev)
     - [Storybook](https://storybook.js.org)
+    - [esbuild](https://esbuild.github.io)
     - [Babel](https://babeljs.io)
 - Deployment
   - [Docker](https://www.docker.com)
+  - [Kubernetes](https://kubernetes.io)
   - [docker-compose](https://docs.docker.com/compose)
   - [Dokku](https://dokku.com)
   - [Heroku](https://heroku.com)
@@ -61,7 +69,9 @@ In addition to JavaScript and Python, I'm also studying C and develop applicatio
 - C
 - [Python](https://www.python.org)
   - [FastAPI](https://fastapi.tiangolo.com)
-- [Lua](http://www.lua.org)
+- [Lua](https://www.lua.org)
+- C#
+  - [.NET Core](https://dotnet.microsoft.com)
 
 ## Languages
 
@@ -72,10 +82,10 @@ In addition to JavaScript and Python, I'm also studying C and develop applicatio
 
 - [The Invisible Centaur](https://github.com/SSH-KK/goHackathon)
   Interface for human and AI integration, which helps to play Go game **_JavaScript+React+Redux_**
-- [Publite (frontend)](https://github.com/publite/frontend)
-  Frontend of ebook reader supporting Epub and FB2 file formats - **_TypeScript+React_**
-- [Publite (backend)](https://github.com/publite/backend)
-  Backend of ebook reader supporting Epub and FB2 file formats - **_Python+FastAPI_**
+- [Publite](https://github.com/publite)
+  EBook reader supporting Epub and FB2 file formats
+  Frontend - **_TypeScript+React_**
+  Backend - **_Python+FastAPI_**
 - [KGS_LeaderBoard](https://github.com/SSH-KK/KGS_LeaderBoard)
   Leaderboard application for KGS Go server - **_TypeScript+React+Brython_**
 - [timetable-generator](https://github.com/SSH-KK/timetable-generator)
@@ -90,8 +100,18 @@ In addition to JavaScript and Python, I'm also studying C and develop applicatio
   School documents (seminars and homeworks) archive - **_TypeScript+React_**
 - [hackathon2020_komap](https://github.com/SSH-KK/hackathon2020_komap)
   Service for making routes - **_TypeScript+React_**
+- [html-pagination](https://github.com/dm1sh/html-pagination)
+  Package for html document pagination to fit container with fixed size - **_TypeScript_**
 - [eserver](https://github.com/dm1sh/eserver)
   Simple express-like webserver - **_TypeScript_**
+- [polynomial_interpolation](https://github.com/dm1sh/polynomial_interpolation)
+  Tool for generation of a polynomial with given dots - **_C_**
+- [conways_game](https://github.com/dm1sh/conways_game)
+  Conway's game implementation in browser - **_TypeScript_**
+- [ttt-game](https://github.com/dm1sh/ttt-game)
+  A simple Tic-Tac-Toe game implementation - **_Python_**
+- [rpn](https://github.com/dm1sh/rpn)
+  Reverse Polish notation calculator with stack - **_C#_**
 - [thetriangle](https://github.com/Dm1tr1y147/thetriangle)
   A simple program for drawing triangles - **_C_**
 - [textEbitor](https://github.com/dm1sh/textEbitor)
@@ -115,6 +135,11 @@ In addition to JavaScript and Python, I'm also studying C and develop applicatio
   Fixed bug with number input
 
 ## Education
+
+### [ETU "LETI"](https://etu.ru)
+
+- 09/2021 - now — Saint Petersburg
+- One of the world's largest education centers specializing in radio engineering, electrical engineering, electronics and computer science. I'm getting [11.03.02 Communication Technologies and Communication Systems](https://etu.ru/en/study/bachelors-degree/communication-technologies-and-communication-systems) bachelor degree
 
 ### [Ugra Physics and Mathematics Lyceum](https://ugrafmsh.ru)
 
