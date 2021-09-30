@@ -92,6 +92,8 @@ Recently I got interested in .NET Core platform and C# language.
   Application for sheduling classes - **_TypeScript+React_**
 - [mshell](https://github.com/Dm1tr1y147/mshell)
   A simple yet comfortable UNIX shell - **_C_**
+- [roomruler](https://github.com/dm1sh/roomruler)
+  Web application for distribution of free classrooms
 - [questionForm](https://github.com/dm1sh/questionForm)
   Online polls - **_TypeScript+React+GraphQL_**
 - [react-eventful-calendar](https://github.com/dm1sh/react-eventful-calendar)
