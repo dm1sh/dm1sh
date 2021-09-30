@@ -31,15 +31,19 @@ Recently I got interested in .NET Core platform and C# language.
     - [Wouter](https://github.com/molefrog/wouter)
     - [Framer Motion](https://www.framer.com/motion)
     - [Styled Components](https://styled-components.com)
+    - [Material UI](https://mui.com)
   - [Redux](https://redux.js.org)
   - [Next.js](https://nextjs.org)
   - [Graphql](https://graphql.org)
     - [Apollo](https://www.apollographql.com)
-  - [Prisma](https://www.prisma.io)
-  - [MongoDB](https://www.mongodb.com)
-    - [Mongoose](https://mongoosejs.com)
-  - [PostgreSQL](https://www.postgresql.org)
-    - [Node-postgres](https://node-postgres.com)
+  - Databases
+    - [Prisma](https://www.prisma.io)
+    - [MongoDB](https://www.mongodb.com)
+      - [Mongoose](https://mongoosejs.com)
+    - [PostgreSQL](https://www.postgresql.org)
+      - [Node-postgres](https://node-postgres.com)
+      - [CockroachDB](https://www.cockroachlabs.com)
+      - [TypeORM](https://typeorm.io/)
   - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
   - [SendGrid](https://sendgrid.com)
   - [IndexedDB](https://github.com/jakearchibald/idb)
@@ -93,7 +97,7 @@ Recently I got interested in .NET Core platform and C# language.
 - [mshell](https://github.com/Dm1tr1y147/mshell)
   A simple yet comfortable UNIX shell - **_C_**
 - [roomruler](https://github.com/dm1sh/roomruler)
-  Web application for distribution of free classrooms
+  Web application for distribution of free classrooms **_TypeScript+React_**
 - [questionForm](https://github.com/dm1sh/questionForm)
   Online polls - **_TypeScript+React+GraphQL_**
 - [react-eventful-calendar](https://github.com/dm1sh/react-eventful-calendar)
