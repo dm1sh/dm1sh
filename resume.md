@@ -9,7 +9,7 @@
 
 ## About me
 
-17-years old programmer specialized in web development. I'm also interested in Linux and have some projects written in C. I study programming since 2017. Except it, I also take part in CTF competitions and hackathons, contribute to open source projects. I do photography and play board games as a hobby. At the moment, I am a bachelor student in Saint Petersburg Electrotechnical University "LETI".
+18-years old programmer specialized in web development. I'm also interested in Linux and have some projects written in C. I study programming since 2017. Except it, I also take part in CTF competitions and hackathons, contribute to open source projects. I do photography and play board games as a hobby. At the moment, I am a bachelor student in Saint Petersburg Electrotechnical University "LETI".
 
 ## Specialization
 
