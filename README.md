@@ -3,7 +3,7 @@
 - Fullstack web developer
 - Resume: [EN](https://github.com/dm1sh/dm1sh/blob/main/resume.md)/[RU](https://github.com/dm1sh/dm1sh/blob/main/resume-ru.md)
 - Linux fan (and partly C developer too)
-- [ETU "LETI"](https://etu.ru/) student
+- [ETU "LETI"](https://etu.ru/en/university/) student
 - CTF player (The Invisible Borsch Junior)
 - Currently developing in [S.S.H.&K.K.](https://github.com/SSH-KK) team
 

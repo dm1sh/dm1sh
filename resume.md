@@ -142,7 +142,7 @@ Recently I got interested in .NET Core platform and C# language.
 
 ## Education
 
-### [ETU "LETI"](https://etu.ru)
+### [ETU "LETI"](https://etu.ru/en/university/)
 
 - 09/2021 - now — Saint Petersburg
 - One of the world's largest education centers specializing in radio engineering, electrical engineering, electronics and computer science. I'm getting [11.03.02 Communication Technologies and Communication Systems](https://etu.ru/en/study/bachelors-degree/communication-technologies-and-communication-systems) bachelor degree
