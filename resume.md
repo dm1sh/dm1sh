@@ -90,12 +90,16 @@ Recently I got interested in .NET Core platform and C# language.
   EBook reader supporting Epub and FB2 file formats
   Frontend - **_TypeScript+React_**
   Backend - **_Python+FastAPI_**
+- [QRCodeLibrary](https://github.com/dm1sh/QRCodeLibrary)
+  Library for QR code generation from text or any other bytes - **_C++_**
 - [KGS_LeaderBoard](https://github.com/SSH-KK/KGS_LeaderBoard)
   Leaderboard application for KGS Go server - **_TypeScript+React+Brython_**
 - [timetable-generator](https://github.com/SSH-KK/timetable-generator)
   Application for sheduling classes - **_TypeScript+React_**
 - [mshell](https://github.com/Dm1tr1y147/mshell)
   A simple yet comfortable UNIX shell - **_C_**
+- [QRCodeLibrary](https://github.com/dm1sh)
+  Library for QR code generation - **_C++_**
 - [roomruler](https://github.com/dm1sh/roomruler)
   Web application for distribution of free classrooms **_TypeScript+React_**
 - [questionForm](https://github.com/dm1sh/questionForm)

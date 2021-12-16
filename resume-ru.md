@@ -90,11 +90,13 @@
   "Читалка" электронных книг форматов Epub и FB2.
   Фронтенд - **_TypeScript+React_**
   Бэкенд - **_Python+FastAPI_**
+- [QRCodeLibrary](https://github.com/dm1sh/QRCodeLibrary)
+  Библиотека для генерации QR кода из строки или другого набора байт - **_C++_**
 - [KGS_LeaderBoard](https://github.com/SSH-KK/KGS_LeaderBoard)
   Таблица топов для KGS Go сервера - **_TypeScript+React+Brython_**
 - [timetable-generator](https://github.com/SSH-KK/timetable-generator)
   Приложение для составления расписания занятий - **_TypeScript+React_**
-- [mshell](https://github.com/Dm1tr1y147/mshell)
+- [mshell](https://github.com/dm1sh/mshell)
   Простой, но всё ещё удобный Linux шелл - **_C_**
 - [roomruler](https://github.com/dm1sh/roomruler)
   Веб-приложение для распределения свободных кабинетов **_TypeScript+React_**
@@ -118,11 +120,11 @@
   Игра в крестики-нолики - **_Python_**
 - [rpn](https://github.com/dm1sh/rpn)
   Стековый калькулятор для вычисления выражений записанных в обратной польской записи - **_C#_**
-- [thetriangle](https://github.com/Dm1tr1y147/thetriangle)
+- [thetriangle](https://github.com/dm1sh/thetriangle)
   Программа для печати треугольников и составных фигур - **_C_**
 - [textEbitor](https://github.com/dm1sh/textEbitor)
   Текстовый редактор на C - **_C_**
-- [md_offliner](https://github.com/Dm1tr1y147/md_offliner)
+- [md_offliner](https://github.com/dm1sh/md_offliner)
   Утилита для сохранения онлайн-контента в MarkDown документе и загрузки его на сервер - **_Lua_**
 - [ctest](https://github.com/dm1sh/ctest)
   Библиотека для Unit тестов для C - **_C_**
