@@ -19,7 +19,7 @@ I also have some DevOps skills, including development environment creation and f
 
 In addition to JavaScript and Python, I'm also studying C and develop application programs. This language is closely related to Linux. Through knowing it, I can do basic server machine system administration and network development.
 
-Recently I got interested in .NET Core platform and C# language.
+This summer I got interested in .NET Core platform and C# language. But currently it is out of my interests. Right now I'm learning C++.
 
 ## Stack
 
@@ -71,6 +71,7 @@ Recently I got interested in .NET Core platform and C# language.
   - [Vercel Now](https://vercel.com)
   - [Oracle Cloud Infrastructure](https://www.oracle.com/cloud)
 - C
+- C++
 - [Python](https://www.python.org)
   - [FastAPI](https://fastapi.tiangolo.com)
 - [Lua](https://www.lua.org)
