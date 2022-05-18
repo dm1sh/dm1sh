@@ -4,7 +4,7 @@
 
 - Почта: [me@dmitriy.icu](mailto:me@dmitriy.icu)</br>
 - Сайт: [dmitriy.icu](https://dmitriy.icu)</br>
-- Git: [github.com/dm1sh](https://github.com/dm1sh)</br>
+- Git: [git.dmitriy.icu/dm1sh](https://git.dmitriy.icu/dm1sh)</br>
 - Telegram: [@dm1sh](https://t.me/dm1sh)
 
 ## Обо мне
@@ -15,11 +15,9 @@
 
 Моей специализацией является веб-разработка. Чаще я работаю над Front-end приложениями, но так же имею опыт разработки API и Back-end сервисов. Имел дело с REST и GraphQL API, реляционными и нереляционными базами данных, некоторыми браузерными API.
 
-Так же я обладаю некоторыми DevOps навыками, включающими в себя создание рабочего окружения и развёртка конечного продукта на собственном сервере, PaaS или SaaS платформе.
+Так же я обладаю некоторыми DevOps навыками, включающими в себя создание рабочего окружения и развёртка конечного продукта на linux сервере, PaaS или SaaS платформе.
 
 Помимо JavaScript и Python я так же занимаюсь изучением C и созданием на нём прикладных приложений. Этот язык тесно связан с операционной системой Linux, благодаря знанию которой я так же могу осуществлять базовое системное администрирование сервера и построение архитектуры сети.
-
-Этим летом я заинтересовался платформой .NET Core и изучением языка C#. Однако, в данный момент он не так интересен для меня. Сейчас я учу C++.
 
 ## Стэк
 
@@ -72,6 +70,7 @@
   - [Oracle Cloud Infrastructure](https://www.oracle.com/cloud)
 - C
 - C++
+  - [wxWidgets](https://www.wxwidgets.org)
 - [Python](https://www.python.org)
   - [FastAPI](https://fastapi.tiangolo.com)
 - [Lua](https://www.lua.org)
@@ -85,56 +84,58 @@
 
 ## Проекты
 
-- [The Invisible Centaur](https://github.com/SSH-KK/goHackathon)
-  Интерфейс для взаимодействия человека и искусственного интеллекта, помогающий играть в Го - **_JavaScript+React+Redux_**
-- [Publite](https://github.com/publite)
+- [Publite](https://git.dmitriy.icu/publite)
   "Читалка" электронных книг форматов Epub и FB2.
   Фронтенд - **_TypeScript+React_**
   Бэкенд - **_Python+FastAPI_**
-- [QRCodeLibrary](https://github.com/dm1sh/QRCodeLibrary)
+- [The Invisible Centaur](https://github.com/SSH-KK/goHackathon)
+  Интерфейс для взаимодействия человека и искусственного интеллекта, помогающий играть в Го - **_JavaScript+React+Redux_**
+- [QRCodeLibrary](https://git.dmitriy.icu/dm1sh/QRCodeLibrary)
   Библиотека для генерации QR кода из строки или другого набора байт - **_C++_**
+- [wxMahjong](https://git.dmitriy.icu/dm1sh/wxMahjong)
+  Кросспалтформенная игра маджонг (пасьянс) - **_wxWidgets+C++_**
 - [KGS_LeaderBoard](https://github.com/SSH-KK/KGS_LeaderBoard)
   Таблица топов для KGS Go сервера - **_TypeScript+React+Brython_**
 - [timetable-generator](https://github.com/SSH-KK/timetable-generator)
   Приложение для составления расписания занятий - **_TypeScript+React_**
-- [mshell](https://github.com/dm1sh/mshell)
+- [mshell](https://git.dmitriy.icu/dm1sh/mshell)
   Простой, но всё ещё удобный Linux шелл - **_C_**
-- [roomruler](https://github.com/dm1sh/roomruler)
+- [roomruler](https://git.dmitriy.icu/dm1sh/roomruler)
   Веб-приложение для распределения свободных кабинетов **_TypeScript+React_**
-- [questionForm](https://github.com/dm1sh/questionForm)
+- [questionForm](https://git.dmitriy.icu/dm1sh/questionForm)
   Онлайн опросы - **_TypeScript+React+GraphQL_**
-- [react-eventful-calendar](https://github.com/dm1sh/react-eventful-calendar)
+- [react-eventful-calendar](https://git.dmitriy.icu/dm1sh/react-eventful-calendar)
   React компонент календаря - **_TypeScript+React_**
 - [school_documents](https://github.com/SSH-KK/school_documents)
   Архив семинаров и домашних заданий - **_TypeScript+React_**
 - [hackathon2020_komap](https://github.com/SSH-KK/hackathon2020_komap)
   Приложение для составление маршрутов - **_TypeScript+React_**
-- [html-pagination](https://github.com/dm1sh/html-pagination)
+- [html-pagination](https://git.dmitriy.icu/dm1sh/html-pagination)
   Библиотека для постраничного отображения HTML-контента - **_TypeScript_**
-- [eserver](https://github.com/dm1sh/eserver)
+- [eserver](https://git.dmitriy.icu/dm1sh/eserver)
   Простой веб-сервер похожий на ExpressJS - **_TypeScript_**
-- [polynomial_interpolation](https://github.com/dm1sh/polynomial_interpolation)
+- [polynomial_interpolation](https://git.dmitriy.icu/dm1sh/polynomial_interpolation)
   Программа для составления многочлена проходящего через заданные точки - **_C_**
-- [conways_game](https://github.com/dm1sh/conways_game)
+- [conways_game](https://git.dmitriy.icu/dm1sh/conways_game)
   Имплементация игры Джона Хортона Конвея "Жизнь" в браузере - **_TypeScript_**
-- [ttt-game](https://github.com/dm1sh/ttt-game)
+- [ttt-game](https://git.dmitriy.icu/dm1sh/ttt-game)
   Игра в крестики-нолики - **_Python_**
-- [rpn](https://github.com/dm1sh/rpn)
+- [rpn](https://git.dmitriy.icu/dm1sh/rpn)
   Стековый калькулятор для вычисления выражений записанных в обратной польской записи - **_C#_**
-- [thetriangle](https://github.com/dm1sh/thetriangle)
+- [thetriangle](https://git.dmitriy.icu/dm1sh/thetriangle)
   Программа для печати треугольников и составных фигур - **_C_**
-- [textEbitor](https://github.com/dm1sh/textEbitor)
+- [textEbitor](https://git.dmitriy.icu/dm1sh/textEbitor)
   Текстовый редактор на C - **_C_**
-- [md_offliner](https://github.com/dm1sh/md_offliner)
+- [md_offliner](https://git.dmitriy.icu/dm1sh/md_offliner)
   Утилита для сохранения онлайн-контента в MarkDown документе и загрузки его на сервер - **_Lua_**
-- [ctest](https://github.com/dm1sh/ctest)
+- [ctest](https://git.dmitriy.icu/dm1sh/ctest)
   Библиотека для Unit тестов для C - **_C_**
 
 ## Достижения
 
-- Победитель [UralCTF](https://vk.com/uralctf)
-- Победитель хакатона ["Хантатон 2020"](https://hackathon.uriit.ru/2020/)
 - Победитель хакатона ["Игры разумов"](https://practicingfutures.org/mindgame)
+- Победитель хакатона ["Хантатон 2020"](https://hackathon.uriit.ru/2020/)
+- Победитель [UralCTF](https://vk.com/uralctf)
 
 ## Вклад в Open Source проекты
 
