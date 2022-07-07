@@ -9,7 +9,7 @@
 
 ## Обо мне
 
-18-летний разработчик, специализирующийся на веб-программировании. Так же интересуюсь Linux и имею несколько проектов на C. Занимаюсь программированием с 2017 года. Кроме того, участвую в CTF соревнованиях и хакатонах, вношу свой вклад в проекты с исходным кодом. В качестве хобби занимаюсь фотографией и играю в настольные игры. В данный момент являюсь студентом 1 курса Санкт-Петербургского государственного электротехнического университета − СПбГЭТУ «ЛЭТИ» им. В.И. Ульянова (Ленина).
+18-летний разработчик, специализирующийся на веб-программировании. Так же интересуюсь Linux и имею несколько проектов на C. Занимаюсь программированием с 2017 года. Кроме того, участвую в CTF соревнованиях и хакатонах, вношу свой вклад в проекты с исходным кодом. В качестве хобби занимаюсь фотографией и играю в настольные игры. В данный момент являюсь студентом 2 курса Санкт-Петербургского государственного электротехнического университета — СПбГЭТУ «ЛЭТИ» им. В.И. Ульянова (Ленина).
 
 ## Специализация
 
@@ -17,12 +17,13 @@
 
 Так же я обладаю некоторыми DevOps навыками, включающими в себя создание рабочего окружения и развёртка конечного продукта на linux сервере, PaaS или SaaS платформе.
 
-Помимо JavaScript и Python я так же занимаюсь изучением C и созданием на нём прикладных приложений. Этот язык тесно связан с операционной системой Linux, благодаря знанию которой я так же могу осуществлять базовое системное администрирование сервера и построение архитектуры сети.
+Помимо JavaScript и Python я так же занимаюсь изучением C и созданием на нём прикладных приложений. Этот язык тесно связан с операционной системой Linux, благодаря знанию которой я так же могу осуществлять базовое системное администрирование сервера и построение сети.
+
+В университете я подробнее познакомился с C++, используя его для написания лабораторных и курсовых работ. В первом семестре это были консольные приложения, а во втором — десктопные. Кроме того, для обработки данных в лабораторных работах по физике я обычно использую Jupyter Notebook, оформляя вычисления в LaTex.
 
 ## Стэк
 
 - JS
-  - [NodeJS](https://nodejs.org)
   - [TypeScript](https://www.typescriptlang.org)
   - [React](https://reactjs.org)
     - [React Router](https://reactrouter.com)
@@ -32,6 +33,7 @@
     - [Material UI](https://mui.com)
   - [Redux](https://redux.js.org)
   - [Next.js](https://nextjs.org)
+  - [NodeJS](https://nodejs.org)
   - [Graphql](https://graphql.org)
     - [Apollo](https://www.apollographql.com)
   - Базы данных
@@ -40,8 +42,8 @@
       - [Mongoose](https://mongoosejs.com)
     - [PostgreSQL](https://www.postgresql.org)
       - [Node-postgres](https://node-postgres.com)
-      - [CockroachDB](https://www.cockroachlabs.com)
       - [TypeORM](https://typeorm.io/)
+    - [CockroachDB](https://www.cockroachlabs.com)
   - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
   - [SendGrid](https://sendgrid.com)
   - [IndexedDB](https://github.com/jakearchibald/idb)
@@ -62,6 +64,7 @@
     - [Babel](https://babeljs.io)
 - Деплой
   - [Docker](https://www.docker.com)
+  - [Podman](https://podman.io)
   - [Kubernetes](https://kubernetes.io)
   - [docker-compose](https://docs.docker.com/compose)
   - [Dokku](https://dokku.com)
@@ -73,6 +76,11 @@
   - [wxWidgets](https://www.wxwidgets.org)
 - [Python](https://www.python.org)
   - [FastAPI](https://fastapi.tiangolo.com)
+  - [Jupyter Notebook](https://ipython.org/notebook.html)
+  - [Matplotlib](https://matplotlib.org)
+  - [NumPy](https://numpy.org)
+  - [SymPy](https://www.sympy.org)
+- [Go](https://go.dev)
 - [Lua](https://www.lua.org)
 - C#
   - [.NET Core](https://dotnet.microsoft.com)
@@ -91,7 +99,7 @@
 - [The Invisible Centaur](https://github.com/SSH-KK/goHackathon)
   Интерфейс для взаимодействия человека и искусственного интеллекта, помогающий играть в Го - **_JavaScript+React+Redux_**
 - [QRCodeLibrary](https://git.dmitriy.icu/dm1sh/QRCodeLibrary)
-  Библиотека для генерации QR кода из строки или другого набора байт - **_C++_**
+  Библиотека для генерации QR кода из строки или любого набора байт - **_C++_**
 - [wxMahjong](https://git.dmitriy.icu/dm1sh/wxMahjong)
   Кросспалтформенная игра маджонг (пасьянс) - **_wxWidgets+C++_**
 - [KGS_LeaderBoard](https://github.com/SSH-KK/KGS_LeaderBoard)
@@ -128,6 +136,8 @@
   Текстовый редактор на C - **_C_**
 - [md_offliner](https://git.dmitriy.icu/dm1sh/md_offliner)
   Утилита для сохранения онлайн-контента в MarkDown документе и загрузки его на сервер - **_Lua_**
+- [scrbrmg](https://git.dmitriy.icu/dm1sh/scrbrmg)
+  Утилита для изменения яркости экрана в Linux - **_C_**
 - [ctest](https://git.dmitriy.icu/dm1sh/ctest)
   Библиотека для Unit тестов для C - **_C_**
 
@@ -143,6 +153,8 @@
   Добавил типы для библиотеки random-gradient
 - [Piet_interpreter](https://github.com/JensBouman/Piet_interpreter)
   Исправил баг с вводом числовых значений
+- [tgvkbot](https://github.com/Kylmakalle/tgvkbot)
+  Добавил подключение к базе данных по ссылке и инструкцию по деплою в Dokku
 
 ## Образование
 

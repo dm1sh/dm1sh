@@ -4,7 +4,7 @@
 
 - Mail: [me@dmitriy.icu](mailto:me@dmitriy.icu)</br>
 - Site: [dmitriy.icu](https://dmitriy.icu)</br>
-- Git: [github.com/dm1sh](https://github.com/dm1sh)</br>
+- Git: [git.dmitriy.icu/dm1sh](https://git.dmitriy.icu/dm1sh)</br>
 - Telegram: [@dm1sh](https://t.me/dm1sh)
 
 ## About me
@@ -19,12 +19,11 @@ I also have some DevOps skills, including development environment creation and f
 
 In addition to JavaScript and Python, I'm also studying C and develop application programs. This language is closely related to Linux. Through knowing it, I can do basic server machine system administration and network development.
 
-This summer I got interested in .NET Core platform and C# language. But currently it is out of my interests. Right now I'm learning C++.
+At university, I learned more of C++ by using it to write labs and coursework. In the first semester it were console applications, and in the second semester - desktop applications. In addition, I usually use Jupyter Notebook to process data in physics lab work, formatting the calculations in LaTex.
 
 ## Stack
 
 - JS
-  - [NodeJS](https://nodejs.org)
   - [TypeScript](https://www.typescriptlang.org)
   - [React](https://reactjs.org)
     - [React Router](https://reactrouter.com)
@@ -34,6 +33,7 @@ This summer I got interested in .NET Core platform and C# language. But currentl
     - [Material UI](https://mui.com)
   - [Redux](https://redux.js.org)
   - [Next.js](https://nextjs.org)
+  - [NodeJS](https://nodejs.org)
   - [Graphql](https://graphql.org)
     - [Apollo](https://www.apollographql.com)
   - Databases
@@ -42,8 +42,8 @@ This summer I got interested in .NET Core platform and C# language. But currentl
       - [Mongoose](https://mongoosejs.com)
     - [PostgreSQL](https://www.postgresql.org)
       - [Node-postgres](https://node-postgres.com)
-      - [CockroachDB](https://www.cockroachlabs.com)
       - [TypeORM](https://typeorm.io/)
+    - [CockroachDB](https://www.cockroachlabs.com)
   - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
   - [SendGrid](https://sendgrid.com)
   - [IndexedDB](https://github.com/jakearchibald/idb)
@@ -64,6 +64,7 @@ This summer I got interested in .NET Core platform and C# language. But currentl
     - [Babel](https://babeljs.io)
 - Deployment
   - [Docker](https://www.docker.com)
+  - [Podman](https://podman.io)
   - [Kubernetes](https://kubernetes.io)
   - [docker-compose](https://docs.docker.com/compose)
   - [Dokku](https://dokku.com)
@@ -74,6 +75,11 @@ This summer I got interested in .NET Core platform and C# language. But currentl
 - C++
 - [Python](https://www.python.org)
   - [FastAPI](https://fastapi.tiangolo.com)
+  - [Jupyter Notebook](https://ipython.org/notebook.html)
+  - [Matplotlib](https://matplotlib.org)
+  - [NumPy](https://numpy.org)
+  - [SymPy](https://www.sympy.org)
+- [Go](https://go.dev)
 - [Lua](https://www.lua.org)
 - C#
   - [.NET Core](https://dotnet.microsoft.com)
@@ -85,22 +91,22 @@ This summer I got interested in .NET Core platform and C# language. But currentl
 
 ## Projects
 
-- [The Invisible Centaur](https://github.com/SSH-KK/goHackathon)
-  Interface for human and AI integration, which helps to play Go game **_JavaScript+React+Redux_**
 - [Publite](https://github.com/publite)
   EBook reader supporting Epub and FB2 file formats
   Frontend - **_TypeScript+React_**
   Backend - **_Python+FastAPI_**
+- [The Invisible Centaur](https://github.com/SSH-KK/goHackathon)
+  Interface for human and AI integration, which helps to play Go game **_JavaScript+React+Redux_**
 - [QRCodeLibrary](https://github.com/dm1sh/QRCodeLibrary)
-  Library for QR code generation from text or any other bytes - **_C++_**
+  Library for QR code generation from text or any sequence of bytes - **_C++_**
+- [wxMahjong](https://git.dmitriy.icu/dm1sh/wxMahjong)
+  Crossplatform game mahjong (solitare) - **_wxWidgets+C++_**
 - [KGS_LeaderBoard](https://github.com/SSH-KK/KGS_LeaderBoard)
   Leaderboard application for KGS Go server - **_TypeScript+React+Brython_**
 - [timetable-generator](https://github.com/SSH-KK/timetable-generator)
   Application for sheduling classes - **_TypeScript+React_**
 - [mshell](https://github.com/Dm1tr1y147/mshell)
   A simple yet comfortable UNIX shell - **_C_**
-- [QRCodeLibrary](https://github.com/dm1sh)
-  Library for QR code generation - **_C++_**
 - [roomruler](https://github.com/dm1sh/roomruler)
   Web application for distribution of free classrooms **_TypeScript+React_**
 - [questionForm](https://github.com/dm1sh/questionForm)
@@ -129,14 +135,16 @@ This summer I got interested in .NET Core platform and C# language. But currentl
   Text editor in C - **_C_**
 - [md_offliner](https://github.com/Dm1tr1y147/md_offliner)
   Tool for uploading articles to the server - **_Lua_**
+- [scrbrmg](https://git.dmitriy.icu/dm1sh/scrbrmg)
+  Утилита для изменения яркости экрана в Linux - **_C_**
 - [ctest](https://github.com/dm1sh/ctest)
   Mostly specialized on unit tests library for improved testing experience - **_C_**
 
 ## Achivements
 
-- Winner of [UralCTF](https://vk.com/uralctf)
-- Winner of hackathon ["Hantaton 2020"](https://hackathon.uriit.ru/2020/)
 - Winner of hackathon ["Mind Games"](https://practicingfutures.org/mindgame)
+- Winner of hackathon ["Hantaton 2020"](https://hackathon.uriit.ru/2020/)
+- Winner of [UralCTF](https://vk.com/uralctf)
 
 ## Open Source projects contribution
 
@@ -144,6 +152,8 @@ This summer I got interested in .NET Core platform and C# language. But currentl
   Added types for random-gradient library
 - [Piet_interpreter](https://github.com/JensBouman/Piet_interpreter)
   Fixed bug with number input
+- [tgvkbot](https://github.com/Kylmakalle/tgvkbot)
+  Added DB connection URI support and Dokku deploy instructions
 
 ## Education
 
